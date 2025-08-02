@@ -154,7 +154,7 @@ export default function Portfolio() {
                           <Target className="h-8 w-8 text-black" />
                         </div>
                       </div>
-                      <h3 className="text-2xl font-black text-white mb-2">[YOUR NAME]</h3>
+                      <h3 className="text-2xl font-black text-white mb-2">Euan Jan Dematera</h3>
                       <Badge className="bg-gradient-to-r from-blue-500 to-cyan-400 text-black font-bold px-4 py-2">
                         BUSINESS ADMINISTRATION
                       </Badge>
